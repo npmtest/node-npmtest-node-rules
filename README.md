@@ -1,4 +1,7 @@
-# test coverage for  [node-rules (v3.1.0)](https://github.com/mithunsatheesh/node-rules)  [![npm package](https://img.shields.io/npm/v/npmtest-node-rules.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-rules) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-rules.svg)](https://travis-ci.org/npmtest/node-npmtest-node-rules)
+# npmtest-node-rules
+
+#### test coverage for  [node-rules (v3.1.0)](https://github.com/mithunsatheesh/node-rules)  [![npm package](https://img.shields.io/npm/v/npmtest-node-rules.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-rules) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-rules.svg)](https://travis-ci.org/npmtest/node-npmtest-node-rules)
+
 #### Business Rules Engine for JavaScript
 
 [![NPM](https://nodei.co/npm/node-rules.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-rules)
