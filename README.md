@@ -1,6 +1,6 @@
 # npmtest-node-rules
 
-#### test coverage for  [node-rules (v3.1.0)](https://github.com/mithunsatheesh/node-rules)  [![npm package](https://img.shields.io/npm/v/npmtest-node-rules.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-rules) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-rules.svg)](https://travis-ci.org/npmtest/node-npmtest-node-rules)
+#### basic test coverage for  [node-rules (v3.1.0)](https://github.com/mithunsatheesh/node-rules)  [![npm package](https://img.shields.io/npm/v/npmtest-node-rules.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-rules) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-rules.svg)](https://travis-ci.org/npmtest/node-npmtest-node-rules)
 
 #### Business Rules Engine for JavaScript
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-node-rules/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-node-rules/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-node-rules/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-node-rules/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-rules/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-rules/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-node-rules/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-node-rules/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-rules/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-rules/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-node-rules/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-node-rules/build/coverage.html/index.html)
 
@@ -91,7 +91,8 @@
     "scripts": {
         "test": "./node_modules/mocha/bin/mocha"
     },
-    "version": "3.1.0"
+    "version": "3.1.0",
+    "bin": {}
 }
 ```
 
